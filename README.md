@@ -1,12 +1,14 @@
 # essential-extensions
-list of custom extension packs 
+List of extension packs for VsCode.  
 
-## Why? 
-I'm tired of syncing my extensions from one device to another, from one account to another, from one stack to another. So I created custom extension packs which I can group based on the usage which I can install from single place with just a click. I don't have to rely on other sources. Hopefully this will work this time. 
+
+## Why This Project?
+I've been using different tech stacks, devices and accounts to work on different projects. It's not so easy to configure extensions for relevant accounts, stacks, and devices. To solve the issue, I created the proejct. It includes bunch of extension packs which will incude respective extensions. Once imported, it wil automatically downlod the listed extensions. With a single command, all the extensions can be removed and disabled which somehow resolves the problem. I can easily import and get it easily done for multiple devices easily. 
+
 
 ## How to use? 
-1. Download the repository
+1. Clone the repository
 2. Open VsCode 
 3. Open command pallate and type `Install from VSIX`
-4. Import respective extension 
+4. Select extension of your choice 
 5. Enjoy 
